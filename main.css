@@ -151,4 +151,8 @@ button a {
 
 .footer {
     text-align: center;
+    background-color: #1F2937;
+    color:#E5E7EB;
+    padding: 30px;
+    font-weight: 500;
 }
