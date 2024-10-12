@@ -48,7 +48,7 @@
 button {
     margin-top: 20px;
     background-color: #3882F6;
-    padding: 15px 32px;
+    padding: 10px 32px;
     border: none;
     font-size: 20px;
     font-weight: 600;
@@ -104,6 +104,7 @@ button a {
     background-color: #E5E7EB;
     padding:150px 250px;
     text-align: center;
+}
 
 .quote > p {
     font-size: 36px;
@@ -120,6 +121,32 @@ button a {
     font-weight: bold;
     font-size: 25px;
     color: #1F2937;
+}
+
+.body-4 {
+    text-align: center;
+    padding: 100px;
+}
+.call-to-action-holder {
+    padding: 50px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 100px;
+    background-color: #3882F6;
+    border-radius: 10px;
+    width: 900px;
+}
+
+.call-to-action-1 {
+    text-align: left;
+    line-height: 1.4;
+    color:#E5E7EB;
+}
+
+.call-to-action-2 button {
+    border: 2px solid #E5E7EB;
 }
 
 .footer {
