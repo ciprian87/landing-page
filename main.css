@@ -40,7 +40,7 @@
 
 .header-description-image img {
     width: 500px;
-    height: 200px;
+    height: 250px;
     text-align: center;
     background-color: ;
 }
@@ -58,4 +58,53 @@ button {
 button a {
     text-decoration: none;
     color: #E5E7EB;
+}
+
+.body {
+    text-align: center;
+}
+
+.body > .body-1 > h2 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+
+.body-1 {
+    margin: 50px;
+}
+
+.body-2 {
+    display: flex;
+    margin: 50px;
+    gap: 100px;
+    height: 250px;
+    justify-content: center;
+}
+
+.body-2 img {
+    width: 150px;
+    height: 150px;
+    border: 3px solid #3882F6;
+    border-radius: 10px;
+}
+
+.body-2 p {
+    margin-top: 10px;
+    color: rgb(126, 126, 126);
+    font-weight: 500;
+}
+
+.info-1, .info-2, .info-3, .info-4 {
+    width:150px;
+    height: 150px;
+}
+
+.body-3 {
+    background-color: #E5E7EB;
+    padding: 100px;
+}
+
+.footer {
+    text-align: center;
 }
