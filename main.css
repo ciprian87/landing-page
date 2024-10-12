@@ -102,7 +102,24 @@ button a {
 
 .body-3 {
     background-color: #E5E7EB;
-    padding: 100px;
+    padding:150px 250px;
+    text-align: center;
+
+.quote > p {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+}
+
+.quote-author {
+    text-align: right;
+}
+
+.quote-author > p {
+    font-weight: bold;
+    font-size: 25px;
+    color: #1F2937;
 }
 
 .footer {
