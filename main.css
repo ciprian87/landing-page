@@ -40,9 +40,8 @@
 
 .header-description-image img {
     width: 500px;
-    height: 250px;
+    /* height: 250px; */
     text-align: center;
-    background-color: ;
 }
 
 button {
@@ -77,14 +76,14 @@ button a {
 .body-2 {
     display: flex;
     margin: 50px;
-    gap: 100px;
+    gap: 50px;
     height: 250px;
     justify-content: center;
 }
 
 .body-2 img {
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    /* height: 150px; */
     border: 3px solid #3882F6;
     border-radius: 10px;
 }
@@ -96,7 +95,7 @@ button a {
 }
 
 .info-1, .info-2, .info-3, .info-4 {
-    width:150px;
+    width:200px;
     height: 150px;
 }
 
